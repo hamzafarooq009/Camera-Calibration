@@ -10,3 +10,9 @@ From this data, compute the camera matrix P. Show the original points and the ba
 
 Implementing QR decomposition of a matrix because we are using direct linear transformation
 
+![14e9aa0b-2755-4bb1-86a5-fa2352cb235e](https://user-images.githubusercontent.com/46634351/104126791-5e6c3080-5380-11eb-91b8-ec733d90282f.jpg)
+
+Computing camera center C, intrinsic matrix K and Rotation matrix R. Generate a 3D figure which shows the calibration points, the camera center and the orientation of the camera in 3D (You also have to plot the points for 3d calibration object as well)
+
+Search for the sensor information of your camera on the web. From this information, compute the focal length in mm. The following link may be useful to look up sensor sizes in mm(since most smartphone sensor sizes will be quoted in inches):
+https://www.digicamdb.com/sensor-sizes/
